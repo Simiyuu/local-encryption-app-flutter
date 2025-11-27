@@ -1,6 +1,8 @@
 Local Encryption & Decryption App in Flutter – A Beginner’s Guide
 
-Objective
+
+
+1. Objective
 
 This project uses Flutter, a UI toolkit for building apps that work on different platforms with the Dart programming language. Flutter was chosen because it enables one codebase to operate on multiple platforms, including Windows, Android, Web, and iOS.
 
@@ -19,7 +21,8 @@ Google's open-source framework Flutter is a top choice, when building cross-plat
 Coming from real world examples, Google Pay, Alibaba, BMW App, and eBay Motors are all popular applications that have been built with Flutter.
 
 
-System Requirements
+
+2. System Requirements
 
 MacOS or Linux, when developing and running the Local Encryption & Decryption App in Flutter you'll need Windows 10 or newer. 
 
@@ -31,7 +34,10 @@ Dart is the language used in the app, and the encrypt and flutter packages are t
 
 You'll also need at least 8 GB of RAM, 10 GB of free disk space and a stable internet connection to set up and install the packages.
 
-Installation & Setup Instructions
+
+
+
+3. Installation & Setup Instructions
 
 Step 1: Install Git for Windows
 
@@ -133,7 +139,8 @@ Run
 At this point, Flutter, Git, Android SDK, and all required dependencies are fully installed and ready to use.
 
 
-Minimal Working Example
+
+4. Minimal Working Example
 
 Description
 
@@ -279,7 +286,9 @@ Expected Output
   Clicking Decrypt restores the original input:
      Hello Flutter
 
-  Prompt Journal
+     
+
+5. Prompt Journal
 
 This section documents how generative AI was used throughout the project in learning Flutter, solving errors, and successfully implementing a local encryption and decryption application.
 
@@ -452,7 +461,9 @@ Overall Reflection on AI Usage Using AI throughout this project:
    - Improved my confidence in documentation enabling me to complete a full working project related to cybersecurity as a complete beginner.
    - The AI acted as both a learning assistant and a technical trouble-shooting partner.
 
-Common Issues & Fixes
+
+
+6. Common Issues & Fixes
 
 This section documents the major challenges encountered during the project and how they were dealt with.
 
@@ -602,9 +613,10 @@ Most errors encountered were due to:
    Git configuration commands
    Proper dependency installation
    These fixes helped strengthen practical troubleshooting skills during the project.
+   
 
 
-8. References
+7. References
 
 The following official documentation and learning resources were used throughout the project for setup, development, debugging, and understanding encryption concepts:
 
